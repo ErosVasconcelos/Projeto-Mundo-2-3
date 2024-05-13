@@ -1,5 +1,5 @@
 import Link from 'next/link';
-import Link from 'next/link';import React, { useState } from 'react';
+import React, { useState } from 'react';
 import Head from 'next/head';
 import ControleEditora from '../classes/controle/ControleEditora';
 import { useRouter } from 'next/router';
