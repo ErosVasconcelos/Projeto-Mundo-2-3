@@ -1,7 +1,6 @@
 import Link from 'next/link';
 import React, { useState } from 'react';
 import Head from 'next/head';
-import ControleEditora from '../classes/controle/ControleEditora';
 import { useRouter } from 'next/router';
 import { Card, Button } from 'react-bootstrap';
 import 'bootstrap/dist/css/bootstrap.min.css';
